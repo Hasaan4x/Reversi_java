@@ -8,3 +8,8 @@ A Java Swing implementation of the Reversi (Othello) board game, built with MVC 
 ```bash
 javac -d bin src/*.java
 
+### Run
+```bash
+java -jar dist/ReversiGame.jar gui
+
+
