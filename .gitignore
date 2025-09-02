@@ -4,3 +4,4 @@ dist/*.class
 *.DS_Store
 
 
+dist/*.jar
