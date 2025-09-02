@@ -3,7 +3,7 @@
 A desktop implementation of **Reversi (Othello)** written in Java with a clear **MVC** separation.  
 Two synchronized player windows (one per side), simple AIs, and a minimal text UI for debugging.
 
-> Built as a university coursework project. Shared here for learning/portfolio purposes.
+
 
 ---
 
