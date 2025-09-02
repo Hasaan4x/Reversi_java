@@ -18,6 +18,18 @@ Two synchronized player windows (one per side), simple AIs, and a minimal text U
 
 ---
 
+
+## 🎮 Preview
+
+Here's a look at the Reversi game in action:
+
+![Reversi GUI](assets/game_gui1.png)
+![Reversi GUI](assets/game_gui2.png)
+
+
+
+
+
 ## 📦 Requirements
 
 - **Java 11+** (tested on macOS; should run on Windows/Linux as well)
@@ -49,6 +61,9 @@ jar cfe dist/ReversiGame.jar reversi.ReversiMain -C bin .
 
 # run the jar (GUI)
 java -jar dist/ReversiGame.jar gui
+
+
+
 
 
 
